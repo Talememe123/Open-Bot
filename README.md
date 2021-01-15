@@ -1,0 +1,2 @@
+# Open-Bot
+always open
